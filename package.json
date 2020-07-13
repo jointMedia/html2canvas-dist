@@ -79,7 +79,7 @@
     "rimraf": "2.6.1",
     "serve-index": "^1.9.1",
     "slash": "1.0.0",
-    "standard-version": "^5.0.2",
+    "standard-version": "^8.0.1",
     "uglifyjs-webpack-plugin": "^1.1.2",
     "webpack": "^4.29.6",
     "webpack-cli": "^3.3.0"
